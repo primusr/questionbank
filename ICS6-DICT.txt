@@ -1,0 +1,77 @@
+Which of the following refers to the mapping from a set of keys to their corresponding values?{
+=dictionary
+~hashtable
+~hash function
+~histogram
+}
+
+Which of the following refers to the algorithm used to implement Python dictionaries?{
+~dictionary
+=hashtable
+~hash function
+~histogram
+}
+
+Which of the following refers to a function used by a hashtable to compute the location for a key?{
+~dictionary
+~hashtable
+=hash function
+~histogram	
+}
+
+Which of the following refers to a set of counters?{
+~dictionary
+~hashtable
+~hash function
+=histogram
+}
+
+Which of the following refers to a way of performing a computation?{
+=implementation
+~item
+~key
+~key-value pair
+}
+
+Which of the following refers to the other name for a key-value pair?{
+~implementation
+=item
+~key
+~key-value pair
+}
+
+Which of the following refers to an object that appears in a dictionary as the first part of a key-value pair?{
+~implementation
+~item
+=key
+~key-value pair
+}
+
+Which of the following refers to the representation of the mapping from a key to a value?{
+~implementation
+~item
+~key
+=key-value pair
+}
+
+Which of the following refers to a dictionary operation that takes a key and finds the corresponding value?{
+~histogram
+=lookup
+~nested loops
+~value
+}
+
+When there are one or more loops "inside" of another loop. You call it a _________.{
+~histogram
+~lookup
+=nested loops
+~value
+}
+
+Which of the following refers to an object that appears in a dictionary as the second part of a key-value pair?{
+~histogram
+~lookup
+~nested loops
+=value
+}
+

@@ -1,0 +1,78 @@
+
+~index
+~identical
+~list
+~list traversal
+~nested list
+~object
+~reference
+
+Which of the following refers to a circumstance where two or more variables refer to the same object?{
+=aliasing
+~delimiter
+~element
+~equivalent
+}
+
+Which of the following refers to a character or string used to indicate where a string should be split?{
+~aliasing
+=delimiter
+~element
+~equivalent
+}
+
+Which of the following refers to one of the values in a list?{
+~aliasing
+~delimiter
+=element
+~equivalent
+}
+
+Which of the following refers to having the same value?{
+~aliasing
+~delimiter
+~element
+=equivalent
+}
+
+Which of the following refers to being the same object?{
+~index
+=identical
+~list
+~list traversal
+}
+
+Which of the following refers to a sequence of values?{
+=index
+~identical
+=list
+~list traversal
+}
+
+Which of the following refers to the sequential accessing of each element in a list?{
+~index
+~identical
+~list
+=list traversal
+}
+
+Which of the following refers to a list that is an element of another list?{
+~identical
+~list
+~list traversal
+=nested list
+}
+
+Which of the following refers to something a variable can refer to?{
+~list traversal
+~nested list
+=object
+~reference
+}
+
+Which of the following refers to the association between a variable and its value?{
+~list traversal
+~nested list
+~object
+=reference
+}
